@@ -14,6 +14,7 @@
 		FFB3A3721EC804EC0089F223 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFB3A3701EC804EC0089F223 /* LaunchScreen.storyboard */; };
 		FFB3A37D1EC804ED0089F223 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB3A37C1EC804ED0089F223 /* CountTests.swift */; };
 		FFB3A3881EC804ED0089F223 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB3A3871EC804ED0089F223 /* CountUITests.swift */; };
+		FFB3A3961EC805D60089F223 /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = FFB3A3951EC805D60089F223 /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FFB3A3831EC804ED0089F223 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFB3A3871EC804ED0089F223 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		FFB3A3891EC804ED0089F223 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFB3A3951EC805D60089F223 /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = haikei.png; path = ../../../../Desktop/haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		FFB3A3661EC804EC0089F223 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				FFB3A3951EC805D60089F223 /* haikei.png */,
 				FFB3A3671EC804EC0089F223 /* AppDelegate.swift */,
 				FFB3A3691EC804EC0089F223 /* ViewController.swift */,
 				FFB3A36B1EC804EC0089F223 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFB3A3961EC805D60089F223 /* haikei.png in Resources */,
 				FFB3A3721EC804EC0089F223 /* LaunchScreen.storyboard in Resources */,
 				FFB3A36F1EC804EC0089F223 /* Assets.xcassets in Resources */,
 				FFB3A36D1EC804EC0089F223 /* Main.storyboard in Resources */,
